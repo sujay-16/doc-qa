@@ -179,11 +179,6 @@ pytest tests/ -v
 
 ---
 
-## Resume Bullet Point
-
-> *"Built a fully local AI document Q&A tool using a RAG pipeline — PDF ingestion with PyPDF2, text chunking with LangChain, semantic embeddings with Ollama (nomic-embed-text), vector storage in ChromaDB, answer generation with llama3, exposed via a FastAPI REST API, and a Streamlit chat UI with source citations"*
-
----
 
 ## Author
 
