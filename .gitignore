@@ -1,0 +1,8 @@
+.env
+venv/
+venv310/
+__pycache__/
+*.pyc
+chroma_db/
+*.pdf
+.DS_Store
